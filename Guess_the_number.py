@@ -1,3 +1,6 @@
+
+#RESC ( Robotics and Electronics Students Community )
+
 import random
 
 numberofGuesses = 0
